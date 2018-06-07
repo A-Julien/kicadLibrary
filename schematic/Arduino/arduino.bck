@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ARDUINO_NANO
+D shield Arduino NANO
+K arduino
+F http://arduino.cc/en/Main/ArduinoBoardNano
+$ENDCMP
+#
+#End Doc Library

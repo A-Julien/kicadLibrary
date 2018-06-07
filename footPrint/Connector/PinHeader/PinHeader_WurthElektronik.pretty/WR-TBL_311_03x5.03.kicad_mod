@@ -1,0 +1,17 @@
+(module WR-TBL_311_03x5.03 (layer F.Cu) (tedit 5B190BF7)
+  (descr "WR-WTB 2.00mm Male Vertical Shrouded Header, 3 Pins")
+  (fp_text reference J? (at -0.3175 4.953) (layer F.SilkS) hide
+    (effects (font (size 1.2065 1.2065) (thickness 0.1016)) (justify left bottom))
+  )
+  (fp_text value VAL** (at 0 -5.08) (layer F.SilkS) hide
+    (effects (font (size 1.2065 1.2065) (thickness 0.1016)) (justify left bottom))
+  )
+  (fp_line (start -8.89 -4.445) (end -8.89 3.175) (layer F.SilkS) (width 0.15))
+  (fp_line (start -8.89 3.175) (end 8.89 3.175) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.89 3.175) (end 8.89 -4.445) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.89 -4.445) (end 5.08 -4.445) (layer F.SilkS) (width 0.15))
+  (fp_line (start 5.08 -4.445) (end -8.89 -4.445) (layer F.SilkS) (width 0.15))
+  (pad 2 thru_hole oval (at 0 -0.635) (size 4.5 6) (drill 1.6) (layers *.Cu *.Mask))
+  (pad 3 thru_hole oval (at 5.08 -0.635) (size 4.5 6) (drill 1.6) (layers *.Cu *.Mask))
+  (pad 1 thru_hole oval (at -5.08 -0.635) (size 4.5 6) (drill 1.6) (layers *.Cu *.Mask))
+)
