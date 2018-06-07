@@ -1,3 +1,3 @@
-##Sensirion Sensor schematic available
+## Sensirion Sensor schematic available
 
 - SHT3x-DIS

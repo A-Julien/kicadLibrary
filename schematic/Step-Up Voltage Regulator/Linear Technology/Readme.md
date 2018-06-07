@@ -1,3 +1,3 @@
-##Linear Technologie schematic available
+## Linear Technologie schematic available
 
 - LT1072

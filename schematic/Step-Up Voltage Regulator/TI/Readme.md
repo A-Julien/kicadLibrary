@@ -1,3 +1,3 @@
-##Texas  schematic available
+## TexasA  schematic available
 
 - LM2577
