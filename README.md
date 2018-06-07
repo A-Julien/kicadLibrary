@@ -18,7 +18,7 @@ project
 │   └───Category
 │   	 └───Constructor
 │   	     └───DataSheet
-│			  Category_Constructor.lib
-│			  Readme.md (list of schematic in .lib)
+│            Category_Constructor.lib
+│            Readme.md (list of schematic in .lib)
 
 ```
