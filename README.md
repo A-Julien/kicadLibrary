@@ -1,7 +1,6 @@
 # KicadLibrary
-A simple Kicad Library (Schematic and FootPrint)
 
--footPrint/schematic
+A simple Kicad Library (Schematic and FootPrint)
 
 ## Library Structure :
 ```
