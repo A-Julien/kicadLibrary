@@ -1,4 +1,4 @@
-(module SMD_Capacitor_EEEFT1C681AP (layer F.Cu) (tedit 5B1972C5)
+(module SMD_Capacitor_EEEFT1C681AP (layer F.Cu) (tedit 5B19730C)
   (fp_text reference REF** (at 1.3335 8.636) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
